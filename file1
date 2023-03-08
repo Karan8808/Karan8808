@@ -1,0 +1,13 @@
+Create a branch for development and switch to that branch. 
+
+2.	Create a file in the repository and add some code to it. 
+
+3.	Stage the file and commit the changes. 
+
+4.	Push the branch to a remote repository (such as GitHub). 
+
+5.	Merge the development branch into the main branch. 
+
+6.	Tag the latest commit on the main branch with a version number. 
+
+7.	Create another branch for a new feature and switch to that branch.
